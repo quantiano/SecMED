@@ -1,4 +1,7 @@
 # SecMED
+
+<h1>  View Report => <a href="https://drive.google.com/file/d/1DJfbjFJn1tY9FnqExn47dLPVXN6lzEXX/view?usp=sharing"> Click Here! </a>
+</h1>
   An application that allow the doctor to manage the patient information safely, able to access from anywhere using the registered IP address
   - Features
     - Use of Advanced Encryption System (AES) to encrypt & decrypt the data.
